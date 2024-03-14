@@ -4,6 +4,8 @@
 - 🔭 I’m currently working on [API Nest.js - NextAuth](https://catsapirest.onrender.com/docs)
 
 - 🌱 I’m currently learning **C# .NET - Node.js**
+- ![image](https://github.com/GuariosMaster/GuariosMaster/assets/143036887/5fe17cde-d202-48ac-ac41-ad0b26b3f818)
+
 
 - 👨‍💻 All of my projects are available at [https://portfolio-manuel-guarin.netlify.app/](https://portfolio-manuel-guarin.netlify.app/)
 
