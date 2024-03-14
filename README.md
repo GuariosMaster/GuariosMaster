@@ -11,6 +11,10 @@
 
 - 📫 How to reach me **guariosdeveloper@gmail.com**
 
+<h5>Curriculum PDF</h3>
+[Currículum_dev.pdf](https://github.com/GuariosMaster/GuariosMaster/files/14608842/Curriculum_dev.pdf)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/manuelguarin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manuelguarin/" height="30" width="40" /></a>
