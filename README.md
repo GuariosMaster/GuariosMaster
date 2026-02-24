@@ -12,8 +12,8 @@
 - 📫 How to reach me **guariosdeveloper@gmail.com**
 
 <h5>Curriculum PDF</h3>
-[Currículum_dev.pdf](https://github.com/GuariosMaster/GuariosMaster/files/14608842/Curriculum_dev.pdf)
-
+## 📄 Hoja de Vida
+📥 [Descargar mi CV en PDF](https://raw.githubusercontent.com/GuariosMaster/GuariosMaster/main/Curriculum_dev3.0.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
